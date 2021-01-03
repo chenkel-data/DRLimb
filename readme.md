@@ -1,7 +1,7 @@
 ### Imbalanced Classification with Deep Reinforcement Learning
 
-An implementation of a Deep Q-netwoxiv.org/pdf/1901.01379.pdf) by _Lin et al_. rk for imbalanced  data  classification based on the
- [paper](https://arxiv.org/pdf/1901.01379.pdf)
+An implementation of a Deep Q-network for imbalanced data classification based on the
+ [paper](https://arxiv.org/pdf/1901.01379.pdf) by _Lin et al_.
 
 _A  deep Q-learning  network  (DQN)  based  model  for  im-balanced  data  classification  is  proposed  in  this  paper.
 In  our model,  the  imbalanced  classification  problem  is  regarded  asa guessing game which can be decomposed into 
