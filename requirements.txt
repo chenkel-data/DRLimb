@@ -1,0 +1,6 @@
+tensorflow>=2.3
+tf-agents==0.6.0
+imblearn
+scikit-learn
+imbalanced-learn
+pyvirtualdisplay
